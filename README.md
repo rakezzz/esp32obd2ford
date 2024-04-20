@@ -1,8 +1,11 @@
 # esp32obd2ford
 
 - My Equipment
+  
   Esp32
+
   RTC DS3231
+
   LCD ILI9341 ( 320x240 )
 
   Testing on Ford Everest 2007 A/T TDCI 
