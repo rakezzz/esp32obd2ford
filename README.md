@@ -20,4 +20,6 @@ The sketch then displays this data on an OLED display using the TFT_eSPI Bodmer 
 
 Still on Progress ( Not Yet Finish )
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/rakezzz/esp32obd2ford/blob/main/display.jpg?raw=true)
+
+
